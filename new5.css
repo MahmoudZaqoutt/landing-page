@@ -100,7 +100,7 @@ html {
     clear: both;
 }
 .home{
-    background-image: url(../CSS_Course/images/background/background1.webp);
+    background-image: url(images/background/background1.webp);
     height: 100vh;
     background-size: cover;
     position: relative;
@@ -569,7 +569,7 @@ color: #999;
 
 .sec6{
     position: relative;
-    background-image: url(../CSS_Course/images/background/لقطة\ الشاشة\ 2022-10-13\ 152746.png);
+    background-image: url(images/background/لقطة\ الشاشة\ 2022-10-13\ 152746.png);
  width: 100%;
  background-attachment: fixed;
 }
@@ -712,7 +712,7 @@ font-size: 110%;
 
 .sec8 {
     position: relative;
-    background-image: url(../CSS_Course/images/background/background3.webp);
+    background-image: url(images/background/background3.webp);
     background-attachment:fixed;
 
     width: 100%;
