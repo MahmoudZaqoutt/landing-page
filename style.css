@@ -1065,6 +1065,14 @@ border: 0;
     margin-bottom: 3%;
    
 }
+input:active, input:focus,
+textarea:active,textarea:focus {
+    
+    border: 1px solid #6195ff ;
+    border-bottom: 3px solid #6195ff;
+
+
+}
 /* ------------------------------------------------------------------ */
  .final {
 
